@@ -1,7 +1,9 @@
 # Unity_Practicas_0.0.1
-# Portfolio one page template - ARCHIVED
+# Ejecución de tutoriales juego en 3D Fase 2 
 
-Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax).
+Objetivo
+El estudiante practicará los fundamentos de videojuegos en 3D con Unity.
+
 
 
 ![Mockup demo](screenshots/pic.jpg)
