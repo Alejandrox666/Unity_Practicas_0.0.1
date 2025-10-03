@@ -11,7 +11,7 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9oYjAjQvY7TIldEY95WkvDe8Emb83C6FTQ&s" width="80%" alt="Descripción de la imagen">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9oYjAjQvY7TIldEY95WkvDe8Emb83C6FTQ&s" width="60%" alt="Descripción de la imagen">
 </p>
 
 ## Contents
