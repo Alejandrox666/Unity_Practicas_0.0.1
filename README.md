@@ -18,17 +18,7 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 - [Folder and file structure](#folder-and-file-structure)
 - [Requirements:](#requirements)
-- [How to start](#how-to-start)
-- [Site configuration](#site-configuration)
-- [Tasks](#tasks)
-    - [Cleanup](#cleanup)
-    - [Dev](#dev)
-    - [Build](#build)
-    - [Rebuild](#rebuild)
-    - [Server](#server)
-    - [Sprite](#sprite)
-- [Live reload](#live-reload)
-- [License](#license)
+- [Player Animations 2D Tutorial 01:](#Player Animations 2D Tutorial 01)
 
 ## Folder and file structure
 
