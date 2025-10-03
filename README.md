@@ -18,7 +18,6 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 - [Folder and file structure](#folder-and-file-structure)
 - [Requirements:](#requirements)
-    - [Editorconfig](#editorconfig)
 - [How to start](#how-to-start)
 - [Site configuration](#site-configuration)
 - [Tasks](#tasks)
@@ -110,7 +109,7 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 - Almacenamiento: 8 GB de espacio libre
 
-##Player Animations 2D Tutorial 01
+## Player Animations 2D Tutorial 01
 
 
 ## License
