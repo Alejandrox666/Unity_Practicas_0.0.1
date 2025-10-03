@@ -98,7 +98,7 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 ```
 
-## Requirements
+## Requerimientos
 
 - SO: Windows 7 (SP1+) / Windows 10 / Windows 11
 
@@ -109,6 +109,8 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 - Tarjeta gráfica: DX10, DX11, DX12-capable
 
 - Almacenamiento: 8 GB de espacio libre
+
+##Player Animations 2D Tutorial 01
 
 
 ## License
