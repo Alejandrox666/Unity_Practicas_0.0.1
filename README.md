@@ -112,6 +112,8 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 ## Player Animations 2D Tutorial 01
 
 - Crear un nuevo proyecto a través de Unity Hub. Seleccionar el número de versión más actual de acuerdo a las versiones instaladas en tu Unity Hub.
+  <img width="1098" height="559" alt="image" src="https://github.com/user-attachments/assets/f01b2d8f-b929-4ef0-b2a3-333fe1714491" />
+
 - Crear la estructura de proyecto de la imagen.
 - Abrir el IDE de Unity, crear dos objetos vacíos mediante la vista Hierarchy opción crear
 qué se encuentra en la esquina superior izquierda. Renombra los objetos como
