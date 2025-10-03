@@ -1,13 +1,12 @@
 # Unity_Practicas_0.0.1
-# Ejecución de tutoriales juego en 3D Fase 2 
+# Ejecución de tutoriales juego en 2D 
 
 Objetivo
 El estudiante practicará los fundamentos de videojuegos en 3D con Unity.
 
 
 
-![Mockup demo](screenshots/pic.jpg)
-Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
+![Descripción de la imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9oYjAjQvY7TIldEY95WkvDe8Emb83C6FTQ&s)
 
 ## Contents
 
