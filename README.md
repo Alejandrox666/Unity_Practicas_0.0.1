@@ -2,7 +2,7 @@
 # Ejecución de tutoriales juego en 2D 
 
 Objetivo
-El estudiante practicará los fundamentos de videojuegos en 3D con Unity.
+El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 
 
