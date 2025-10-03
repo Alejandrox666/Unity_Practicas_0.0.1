@@ -1,12 +1,17 @@
 # Unity_Practicas_0.0.1
 # Ejecución de tutoriales juego en 2D 
 
+Alumno: Alejandro Hernández Negrete
+Grupo GIDS5103
+
 Objetivo
 El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 
 
-![Descripción de la imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9oYjAjQvY7TIldEY95WkvDe8Emb83C6FTQ&s)
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9oYjAjQvY7TIldEY95WkvDe8Emb83C6FTQ&s" width="80%" alt="Descripción de la imagen">
+</p>
 
 ## Contents
 
