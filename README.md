@@ -2,6 +2,7 @@
 # Ejecución de tutoriales juego en 2D 
 
 Alumno: Alejandro Hernández Negrete
+
 Grupo GIDS5103
 
 Objetivo
