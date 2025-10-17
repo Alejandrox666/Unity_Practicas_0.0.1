@@ -18,7 +18,7 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 - [Folder and file structure](#folder-and-file-structure)
 - [Requirements:](#requirements)
-- [Practicas](#practicas)
+- [Lecciones](#practicas)
 
 ## Folder and file structure
 
@@ -55,7 +55,7 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 
 
-- Practica 1
+-  Lección 1
 
 https://drive.google.com/file/d/1DRdaa6jeqJouvPSo7JVjAA0-U87vXHrC/view?usp=sharing
 
@@ -63,7 +63,7 @@ Link del video: https://drive.google.com/file/d/1IfTfOp4qSTgwEd1WWyECRa-A-8ycgUi
 
 
 
-- Práctica 2
+- Lección 2
 
 https://drive.google.com/file/d/1jdX4EAgm7Ok4A4-NL2ACJNr6s1zjBj8N/view?usp=sharing 
 
@@ -71,7 +71,7 @@ Link del video: https://drive.google.com/file/d/12H0khZYtioRhU893BIvMmZMZUoCblMl
 
 
 
-- Practica 3
+- Lección 3
 
 https://drive.google.com/file/d/17jg_RGmCrB3DQ44CDhm5kQSOfYRpkwCR/view?usp=sharing 
 
@@ -79,7 +79,7 @@ Link del video: https://drive.google.com/file/d/1QseTpObY4X3ElnMpmcaEK9jTmzSEOzn
 
 
 
-- Práctica 4
+- Lección 4
 
 https://drive.google.com/file/d/1TGUfIHDZ2WA1Q-GoXjofE0Lo17hG7ELD/view?usp=sharing 
 
