@@ -53,7 +53,7 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 ## Practicas
 
-Nota: Dentro de cada enlace al final del documento se encuentran los videos.
+
 
 - Practica 1
 
