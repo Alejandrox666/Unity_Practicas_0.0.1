@@ -67,6 +67,8 @@ Link del video: https://drive.google.com/file/d/1IfTfOp4qSTgwEd1WWyECRa-A-8ycgUi
 
 https://drive.google.com/file/d/1jdX4EAgm7Ok4A4-NL2ACJNr6s1zjBj8N/view?usp=sharing 
 
+Link del video: https://drive.google.com/file/d/12H0khZYtioRhU893BIvMmZMZUoCblMlF/view?usp=drive_link
+
 
 
 - Practica 3
