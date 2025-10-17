@@ -59,15 +59,18 @@ Nota: Dentro de cada enlace al final del documento se encuentran los videos.
 
 https://drive.google.com/file/d/1DRdaa6jeqJouvPSo7JVjAA0-U87vXHrC/view?usp=sharing
 
+
 - Práctica 2
 
 https://drive.google.com/file/d/1jdX4EAgm7Ok4A4-NL2ACJNr6s1zjBj8N/view?usp=sharing 
+
 
 - Practica 3
 
 https://drive.google.com/file/d/17jg_RGmCrB3DQ44CDhm5kQSOfYRpkwCR/view?usp=sharing 
 
 Link del video: https://drive.google.com/file/d/1QseTpObY4X3ElnMpmcaEK9jTmzSEOznr/view?usp=sharing
+
 
 - Práctica 4
 
