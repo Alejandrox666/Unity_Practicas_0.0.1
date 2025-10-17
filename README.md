@@ -51,7 +51,7 @@ El estudiante practicará los fundamentos de videojuegos en 2D con Unity.
 
 - Almacenamiento: 8 GB de espacio libre
 
-## Practicas
+## Lecciones
 
 
 
