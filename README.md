@@ -86,6 +86,14 @@ https://drive.google.com/file/d/1TGUfIHDZ2WA1Q-GoXjofE0Lo17hG7ELD/view?usp=shari
 Link del video: https://drive.google.com/file/d/1j8Ju4sSdV7cn0Mikbf3f41R3S0fXhPBc/view?usp=sharing
 
 
+- Lección 5
+
+https://drive.google.com/file/d/1OOvWGlzoUNzr0_sRPb5bFgBziy6SYMK-/view?usp=sharing
+
+Link del video:
+https://drive.google.com/file/d/1eWsNiAD_4W-2XE_l4Id3ZucX56utsMUz/view?usp=sharing
+
+
 
 
 
