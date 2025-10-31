@@ -94,6 +94,13 @@ Link del video:
 https://drive.google.com/file/d/1eWsNiAD_4W-2XE_l4Id3ZucX56utsMUz/view?usp=sharing
 
 
+- Lección 6
+
+https://drive.google.com/file/d/1VqSLqjZov9zMO9GG7I6gGObHWuz_XINP/view?usp=sharing
+
+Link del video:
+https://drive.google.com/file/d/1PNdFt7zQPPuClA6NJAQagUF-FDDG4BBE/view?usp=sharing
+
 
 
 
