@@ -80,10 +80,16 @@ La mecánica principal es simple para ser accesible, pero el diseño de los nive
 ## Plataformas en las que se desplego el juego
 
 ### Android APK
-- [ Link del archivo]()
+- [ Link del archivo](https://drive.google.com/drive/folders/1jNisYrN1ChtV1kN7nVdRQSnguXWjSAPn?usp=sharing)
 ### WebGL
-
+- [ Link del archivo](https://drive.google.com/drive/folders/1X4cjY7RTxo1cP1NzMZTpRuLy94TgzquD?usp=sharing)
 ### PC
+- [ Link del archivo](https://drive.google.com/drive/folders/1Hv-Bf7RQAkRiNbp6NUlEzQ5eQ6wPRexZ?usp=sharing)
+### Link de Itch.io
+- [ Link del juego]()
+
+### Link del video de demostración
+- [Link del video]()
 
 
 
