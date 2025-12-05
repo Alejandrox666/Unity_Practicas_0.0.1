@@ -86,7 +86,7 @@ La mecánica principal es simple para ser accesible, pero el diseño de los nive
 ### PC
 - [ Link del archivo](https://drive.google.com/drive/folders/1Hv-Bf7RQAkRiNbp6NUlEzQ5eQ6wPRexZ?usp=sharing)
 ### Link de Itch.io
-- [ Link del juego]()
+- [ Link del juego](https://taylon666.itch.io/camino-al-caos)
 
 ### Link del video de demostración
 - [Link del video]()
