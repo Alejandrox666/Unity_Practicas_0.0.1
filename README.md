@@ -1,4 +1,4 @@
-![Texto alternativo](Assets/Sprites/Menu/Gemini_Generated_Image_n17f90n17f90n17f.png.meta)
+![Texto alternativo](Gemini_Generated_Image_n17f90n17f90n17f.png)
 #  Proyecto Final — Creación de Videojuegos
 
 ##  Información del Proyecto
