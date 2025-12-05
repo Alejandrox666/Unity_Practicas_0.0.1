@@ -93,6 +93,9 @@ La mecánica principal es simple para ser accesible, pero el diseño de los nive
 - [Link del video WebGL: Nivel 2](https://drive.google.com/file/d/1m95gbpFd8BoTOSZMEd0cZKynRJH4iiwq/view?usp=sharing)
 - [Link del video PC: Nivel 3](https://drive.google.com/file/d/1OLitf8DQJUtOJkVOxaO0ui_N1LWW466H/view?usp=sharing)
 
+## Actividad 2 del instrumento: Aspectos legales del videojuego
+- [Link del archivo](https://drive.google.com/file/d/1-5v6olYvGxKgyew3EytkFpmwK9XElhvM/view?usp=sharing)
+
 
 
 
