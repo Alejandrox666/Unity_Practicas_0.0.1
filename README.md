@@ -38,3 +38,44 @@ Aqui puedes encontrar las actividades desarrolladas para aprobar el curso, de un
 
 ### Documento de Diseño de Videojuego Camnino al Caos
 
+##  Concepto y género
+| Categoria | Especificación |
+|-------|---------|
+| **Género principal** | Plataformas 2D |
+| **Género secundario** | Educativo y de conciencia social |
+| **Plataformas** | Móvil, PC |
+
+## Narrativa y propósito géneral
+
+### La premisa
+
+El jugador asume el rol de un ciudadano anónimo que, cansado de la indiferencia y el deterioro, decide tomar acción directa para "arreglar" simbólicamente los problemas que afectan el tránsito y la convivencia social en México. El "Caos" es el estado de la infraestructura y la justicia, y el camino para resolverlo es la propia jugabilidad.
+
+### El enganche narrativo
+
+El juego no tiene diálogos extensos. La narración se da a través del entorno: las plataformas rotas, el humo, las pancartas de protesta.
+
+- Introducción: Una escena muy breve (o un texto en pantalla) muestra una carretera destruida por el caos (fuego, baches gigantes, gente bloqueando). El mensaje es simple: "El camino al orden empieza con un paso. Tú eres ese paso."
+
+- Final del Nivel: Al completar cada nivel, la pantalla no muestra una puntuación simple, sino un "Informe de Situación Reparada" o una "Victoria Cívica" junto con un dato real sobre la problemática abordada.
+
+## Mecánicas de juego centrales
+
+La mecánica principal es simple para ser accesible, pero el diseño de los niveles debe hacer que la recolección sea un desafío.
+
+- Movimiento: Correr, saltar (doble salto si es necesario para el desafío).
+
+- Mecánica Única: La Carga: El personaje puede llevar un máximo de 3-5 unidades del recurso clave a la vez. Esto obliga al jugador a hacer viajes de ida y vuelta, simulando el esfuerzo y la escasez de recursos reales.
+
+- Peligros Comunes: Caídas (vacío), obstáculos de tráfico (coches parados), humo (reduce visibilidad), y las "plataformas rotas" que exigen precisión.
+
+## Diseño de Niveles Detallado
+
+| Nivel | Temática central | Objetivo Narrativo | Recursos a recolectar | Peligros|
+|-------|---------|
+| **Género principal** | Plataformas 2D |
+| **Género secundario** | Educativo y de conciencia social |
+| **Plataformas** | Móvil, PC |
+
+
+
