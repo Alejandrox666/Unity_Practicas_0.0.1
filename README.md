@@ -1,35 +1,30 @@
-# 🎓 Proyecto Final — Creación de Videojuegos
+#  Proyecto Final — Creación de Videojuegos
 
 ## 👤 Información del Proyecto
 | Campo | Detalle |
 |-------|---------|
-| **Autor(es)** | Jesús Yael Padrón Grimaldo |
+| **Autor(es)** | Alejandro Hernández Negrete |
 | **Institución** | Universidad Tecnológica del Norte de Guanajuato |
 | **Curso** | Creación de Videojuegos |
 | **Fecha** | Octubre 2025 |
-| **Estado** | ✅ Completado |
 
 ---
 
-## 📚 Descripción general
-Este repositorio centraliza todos los materiales desarrollados durante el curso como desafíos.
+##  Descripción general
+Este repositorio organiza todos los recursos trabajados en el curso de Creación de Videojuegos.
 
-La estructura está organizada para facilitar la navegación y el acceso a cada sección.
-
+Aqui puedes encontrar las actividades desarrolladas para aprobar el curso, de una manera accesible
 ---
 
-## 🧩 Unidad 2 — Programación Orientada a Objetos para videojuegos
+##  Unidad 2 — Programación Orientada a Objetos para videojuegos
 
 ### 📖 Tutoriales paso a paso
-
-| # | Tutorial | Descripción | Estado |
-|---|----------|-------------|--------|
-| 1 | Creación de un mapa | Diseño del entorno del juego | ✅ |
-| 2 | Movimientos básicos AWSD | Implementación de controles | ✅ |
-| 3 | Recolección de frutas | Mecánica de coleccionables | ✅ |
-| 4 | Animaciones 2D | Sprites y animaciones | ✅ |
-| 5 | Enemigos | IA y comportamientos | ✅ |
-| 6 | Nuevos Niveles | Sistema de niveles | ✅ |
+- Tutorial Parte 1: 
+- Tutorial Parte 2: 
+- Tutorial Parte 3: 
+- Tutorial Parte 4:
+- Tutorial Parte 5: 
+- Tutorial Parte 6:
 
 ### 🎥 Videos demostrativos
 - **Prueba 3:** Recolección de frutas
