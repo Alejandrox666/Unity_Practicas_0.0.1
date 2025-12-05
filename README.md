@@ -1,9 +1,9 @@
 #  Proyecto Final — Creación de Videojuegos
 
-## 👤 Información del Proyecto
+##  Información del Proyecto
 | Campo | Detalle |
 |-------|---------|
-| **Autor(es)** | Alejandro Hernández Negrete |
+| **Autor** | Alejandro Hernández Negrete |
 | **Institución** | Universidad Tecnológica del Norte de Guanajuato |
 | **Curso** | Creación de Videojuegos |
 | **Fecha** | Octubre 2025 |
@@ -18,7 +18,7 @@ Aqui puedes encontrar las actividades desarrolladas para aprobar el curso, de un
 
 ##  Unidad 2 — Programación Orientada a Objetos para videojuegos
 
-### 📖 Tutoriales paso a paso
+###  Tutoriales paso a paso
 - [Tutorial: Parte 1](https://drive.google.com/file/d/1DRdaa6jeqJouvPSo7JVjAA0-U87vXHrC/view?usp=sharing)
 - [Tutorial: Parte 2](https://drive.google.com/file/d/1jdX4EAgm7Ok4A4-NL2ACJNr6s1zjBj8N/view?usp=drive_link)
 - [Tutorial: Parte 3](https://drive.google.com/file/d/17jg_RGmCrB3DQ44CDhm5kQSOfYRpkwCR/view?usp=drive_link)
@@ -26,7 +26,7 @@ Aqui puedes encontrar las actividades desarrolladas para aprobar el curso, de un
 - [Tutorial: Parte 5](https://drive.google.com/file/d/1OOvWGlzoUNzr0_sRPb5bFgBziy6SYMK-/view?usp=drive_link) 
 - [Tutorial: Parte 6](https://drive.google.com/file/d/1VqSLqjZov9zMO9GG7I6gGObHWuz_XINP/view?usp=drive_link)
 
-### 🎥 Videos demostrativos
+###  Videos demostrativos
 - [**Video:** Parte 1](https://drive.google.com/file/d/1IfTfOp4qSTgwEd1WWyECRa-A-8ycgUiF/view?usp=drive_link)
 - [**Video:** Parte 2](https://drive.google.com/file/d/12H0khZYtioRhU893BIvMmZMZUoCblMlF/view?usp=drive_link)
 - [**Video:** Parte 3](https://drive.google.com/file/d/1QseTpObY4X3ElnMpmcaEK9jTmzSEOznr/view?usp=drive_link)
@@ -34,4 +34,7 @@ Aqui puedes encontrar las actividades desarrolladas para aprobar el curso, de un
 - [**Video:** Parte 5](https://drive.google.com/file/d/1eWsNiAD_4W-2XE_l4Id3ZucX56utsMUz/view?usp=drive_link)
 - [**Video:** Parte 6](https://drive.google.com/file/d/1PNdFt7zQPPuClA6NJAQagUF-FDDG4BBE/view?usp=drive_link)
 
-### 📁 Estructura del Proyecto
+##  Unidad 3 — Distribución de la aplicación de videojuegos
+
+### Documento de Diseño de Videojuego Camnino al Caos
+
