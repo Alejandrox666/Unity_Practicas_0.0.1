@@ -27,9 +27,11 @@ Aqui puedes encontrar las actividades desarrolladas para aprobar el curso, de un
 - [Tutorial: Parte 6](https://drive.google.com/file/d/1VqSLqjZov9zMO9GG7I6gGObHWuz_XINP/view?usp=drive_link)
 
 ### 🎥 Videos demostrativos
-- **Prueba 3:** Recolección de frutas
-- **Prueba 4:** Animaciones 2D  
-- **Prueba 5:** Enemigos
-- **Prueba 6:** Nuevos Niveles
+- [**Video:** Parte 1](https://drive.google.com/file/d/1IfTfOp4qSTgwEd1WWyECRa-A-8ycgUiF/view?usp=drive_link)
+- [**Video:** Parte 2](https://drive.google.com/file/d/12H0khZYtioRhU893BIvMmZMZUoCblMlF/view?usp=drive_link)
+- [**Video:** Parte 3](https://drive.google.com/file/d/1QseTpObY4X3ElnMpmcaEK9jTmzSEOznr/view?usp=drive_link)
+- [**Video:** Parte 4](https://drive.google.com/file/d/1j8Ju4sSdV7cn0Mikbf3f41R3S0fXhPBc/view?usp=drive_link)
+- [**Video:** Parte 5](https://drive.google.com/file/d/1eWsNiAD_4W-2XE_l4Id3ZucX56utsMUz/view?usp=drive_link)
+- [**Video:** Parte 6](https://drive.google.com/file/d/1PNdFt7zQPPuClA6NJAQagUF-FDDG4BBE/view?usp=drive_link)
 
 ### 📁 Estructura del Proyecto
