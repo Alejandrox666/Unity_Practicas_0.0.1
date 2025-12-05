@@ -72,10 +72,10 @@ La mecánica principal es simple para ser accesible, pero el diseño de los nive
 ## Diseño de Niveles Detallado
 
 | Nivel | Temática central | Objetivo Narrativo | Recursos a recolectar | Peligros|
-|-------|---------|
-| **Género principal** | Plataformas 2D |
-| **Género secundario** | Educativo y de conciencia social |
-| **Plataformas** | Móvil, PC |
+|-------|---------|----------|---------|---------|
+| **El asfalto perfecto** | Corrupción y mala calidad de la infraestructura carretera. | Recoger los materiales de construcción dispersos para "hacer el trabajo bien" y asegurar una carretera transitable. | Petreos, Cemento Asfáltico y Aditivos. | Vehiculos abandonados, ratas en las carreteras, plataformas inestables.
+| **La naturaleza es primero** | Descuido ambiental y la rapidez con la que se propagan los incendios en época de sequía.| Recoger la totalidad de gotas de agua dispersas para llevarlas al camión de bomberos al final y extinguir el fuego. | Gotas de agua | Muchos enemigos, plataformas suspendidas |
+| **No somos nada sin el campo** | Protestas y bloqueos de carreteras causados por la injusticia en los pagos a los agricultores. | Recolectar todas las monedas perdidas a lo largo del nivel para reunirlas y pagar un precio justo al campesino. | Monedas | Muchos enemigos, plataformas suspendidas, timer, enemigos volando. |
 
 
 
